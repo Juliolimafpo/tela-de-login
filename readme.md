@@ -14,4 +14,4 @@ Uma página de login simples, construída com o objetivo de praticar os fundamen
 ## 📸 Como visualizar o projeto?
 
 O projeto possui deploy ativo e pode ser acessado diretamente através do link abaixo:
-🔗 [Acesse a Tela de Login Moderna](https://juliolimafpo.github.io/tela-de-login/)
+🔗 [Acesse a Tela de Login](https://juliolimafpo.github.io/tela-de-login/)
